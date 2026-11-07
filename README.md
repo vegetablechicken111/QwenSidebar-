@@ -7,7 +7,7 @@
 
 ## 📖 项目简介 / About This Project
 
-这是一个为非官方千问浏览器插件打造的增强补丁。主要针对经常使用 `chat.qwen.ai` (国际站) 进行文献检索和学术研究的科研人员/学生，解决了原版插件默认绑定国内站且无法记忆会话状态的问题
+这是一个为非官方千问浏览器插件打造的增强补丁。主要针对经常使用 `chat.qwen.ai` (国际站) 进行网页解读、文献检索和学术研究的科研人员/学生，解决了原版插件默认绑定国内站且无法记忆会话状态的问题
 This is an enhanced patch for the unofficial Qwen browser sidebar extension. It is specifically designed for researchers and students who frequently use `chat.qwen.ai` (International Site) for literature retrieval, solving the pain points of the original extension which defaults to the domestic site and lacks session persistence.
 
 ## ✨ 新增核心功能 / Key Enhancements
